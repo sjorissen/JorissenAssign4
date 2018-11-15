@@ -26,6 +26,7 @@ void test() {
 
 //    leafyboi = treeboi;
 
+
     treeboi.insert(8);
 
     treeboi.display();
